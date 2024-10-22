@@ -1,6 +1,7 @@
 body
 {
     background-image: url("Imagenes/Fondo1.jpg");
+    background-repeat: no-repeat;
 }
 
 .contenedor-padre
